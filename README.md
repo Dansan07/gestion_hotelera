@@ -87,7 +87,7 @@ La interfaz permite desplazarse entre las diferentes vistas del sistema:
 
 ##### **Instalación y Ejecución**
 
-* **Base de Datos:** Crear la BD hotel\_db en PostgreSQL y ejecutar el script SQL adjunto (generado desde pgAdmin).
+* **Base de Datos:** Crear la BD hotel\_db en PostgreSQL y ejecutar el script SQL adjunto en la **carpeta db** (generado desde pgAdmin).
 * **Librerías:** Verificar que el JAR del driver de PostgreSQL esté en el classpath del proyecto.
 * **Ejecución:** Iniciar desde Gestion\_hotelera.java. Al aparecer el Login, **presionar "Ingresar"** para habilitar el Panel Administrativo.
 * **Uso:** Navegar a **Registrar > Cliente** para probar el CRUD funcionando con la base de datos.
