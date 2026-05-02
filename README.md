@@ -21,7 +21,7 @@ Sistema de Gestión Hotelera desarrollado en Java Swing y PostgreSQL para el Tal
 **Estudiantes**: 
 
 * Deyby Daniel Ruiz Díaz - 1005332975.
-* Michael Steven Ruiz Díaz - 
+* Michael Steven Ruiz Díaz - 1016595938.
 
 
 ![Pantalla de inicio de sesión](gestion_hotelera/documentacion/vista_login.png)
