@@ -26,7 +26,7 @@ Sistema de Gestión Hotelera desarrollado en Java Swing y PostgreSQL para el Tal
 
 ![Pantalla de inicio de sesión](documentacion/vista_login.png)
 
-![Vista de formulario de Clientes](documentacion/vista_clientes.png)
+![Vista de formulario de Clientes](gestion_hotelera/documentacion/vista_clientes.png)
 
 ![Diagrama ER](documentacion/Diagrama_ER.png)
 
