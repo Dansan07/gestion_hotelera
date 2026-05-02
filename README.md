@@ -24,12 +24,11 @@ Sistema de Gestión Hotelera desarrollado en Java Swing y PostgreSQL para el Tal
 * Michael Steven Ruiz Díaz - 
 
 
+![Pantalla de inicio de sesión](documentacion/vista_login.png)
 
-!\[Pantalla de Login](documentacion/vista\_login.png)
+![Vista de formulario de Clientes](documentacion/vista_clientes.png)
 
-!\[Vista de formulario de Clientes](documentacion/vista\_clientes.png)
-
-!\[Diagrama ER](documentacion/Diagrama\_ER.png)
+![Diagrama ER](documentacion/Diagrama_ER.png)
 
 &#x09;	
 
